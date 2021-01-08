@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 456fc693d6fc5c64eb740b6099363e80, type: 3}
+  m_Name: Boss
+  m_EditorClassIdentifier: 
+  name: Emangculus
+  description: 
+  frontSprite: {fileID: 5014184027176130527, guid: bdd91a69aa76c3941bc7692ed9443482,
+    type: 3}
+  backSprite: {fileID: 5014184027176130527, guid: bdd91a69aa76c3941bc7692ed9443482,
+    type: 3}
+  maxHp: 200
+  attack: 30
+  attackEverySeconds: 0
